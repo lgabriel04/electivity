@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/electivity/static/css/main.39a188a6.css",
+    "main.js": "/electivity/static/js/main.6297ecdf.js",
+    "static/js/787.a8cde567.chunk.js": "/electivity/static/js/787.a8cde567.chunk.js",
+    "static/media/meme (11).jpg": "/electivity/static/media/meme (11).b0e6807bd18fb659a50d.jpg",
+    "static/media/meme4.jpg": "/electivity/static/media/meme4.11f81ca02842aef7e1e4.jpg",
+    "static/media/meme1.jpg": "/electivity/static/media/meme1.447acc16700849f2589b.jpg",
+    "static/media/meme (10).jpg": "/electivity/static/media/meme (10).a83465eec1e1e15971f5.jpg",
+    "static/media/meme (8).jpg": "/electivity/static/media/meme (8).8329aba6e6e3e68039b8.jpg",
+    "static/media/meme3.jpg": "/electivity/static/media/meme3.6deac24c9fc6548737cb.jpg",
+    "static/media/meme (6).jpg": "/electivity/static/media/meme (6).d527c418e9792fc08516.jpg",
+    "static/media/meme (3).jpg": "/electivity/static/media/meme (3).29f2888d646c9a9367e5.jpg",
+    "static/media/meme (4).jpg": "/electivity/static/media/meme (4).2bd7509fe4ccbc79edbc.jpg",
+    "static/media/meme (5).jpg": "/electivity/static/media/meme (5).c352d065ee84555b3f2f.jpg",
+    "static/media/meme (9).jpg": "/electivity/static/media/meme (9).106651551e810038dcb3.jpg",
+    "static/media/meme (2).jpg": "/electivity/static/media/meme (2).96f99d754907046a8386.jpg",
+    "static/media/meme (7).jpg": "/electivity/static/media/meme (7).b6c73c3b8d21bdac01d2.jpg",
+    "static/media/meme (1).jpg": "/electivity/static/media/meme (1).4a7953cd0c7cb68d568f.jpg",
+    "index.html": "/electivity/index.html",
+    "main.39a188a6.css.map": "/electivity/static/css/main.39a188a6.css.map",
+    "main.6297ecdf.js.map": "/electivity/static/js/main.6297ecdf.js.map",
+    "787.a8cde567.chunk.js.map": "/electivity/static/js/787.a8cde567.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39a188a6.css",
+    "static/js/main.6297ecdf.js"
+  ]
+}
