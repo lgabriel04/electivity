@@ -1,0 +1,30 @@
+.navbar {
+    background-color: #d9d9d9;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .navbar h1 {
+    margin: 0;
+    color: #000;
+  }
+  
+
+  /* nav.css */
+/* Your existing styles */
+
+/* Add styles for the "I'm Bored" button */
+.im-bored-button {
+  background-color: #080101;
+  color: white;
+  margin-top: 2px;
+  padding: 2px 5px;
+  border-radius: 5px;
+  text-decoration: none; /* Remove the default underline for links */
+  margin-left: 10px; /* Add some margin to separate it from other links */
+}
+
+/* Additional styling, like hover effects, can be added here */
+.im-bored-button:hover {
+  background-color: #ff0000; /* Change color on hover */
+}
